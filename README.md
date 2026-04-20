@@ -2,6 +2,11 @@
 
 # Review Site Backend
 
+## Group Members
+- Riyansi Donga
+- Edward Owusu Boafo
+- Antonio Fernando
+
 ## Project Overview
 This is the backend for our Movie Review Site group assignment. It uses Strapi as the Headless CMS to store, manage, and deliver movie review data through a REST API. The frontend consumes this data and displays it on the review site.
 
@@ -39,6 +44,9 @@ Fields used in the Review collection type:
 - `releaseDate`
 - `coverImage`
 - `featured`
+
+## Live Site
+https://review-site-headless-cms.netlify.app/
 
 ## API Endpoints
 
